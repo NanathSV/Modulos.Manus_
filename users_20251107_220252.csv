@@ -1,0 +1,5 @@
+id,openId,name,email,loginMethod,role,createdAt,updatedAt,lastSignedIn
+1,JckpvHcNSDWiJr3Von4vYh,Nathalia Silva Villanova,nathalia.villanova@velotax.com.br,google,admin,2025-11-07 19:14:53,2025-11-07 22:00:03,2025-11-07 22:00:04
+30001,YpX33khPKtRwbjf4NBmJPw,Laura Ketheleen De Freitas Guedes,laura.guedes@velotax.com.br,google,user,2025-11-07 19:21:33,2025-11-07 19:33:02,2025-11-07 19:33:03
+180001,Xy37HZqPu4gejtSf96FF8F,Emerson Medeiros José,emerson.jose@velotax.com.br,google,user,2025-11-07 21:09:48,2025-11-07 21:09:48,2025-11-07 21:09:49
+210001,bCjK2FygcmE2xVcL4oi8s5,João Pedro Andrade da Silva,joao.silva@velotax.com.br,google,user,2025-11-07 21:15:23,2025-11-07 21:15:23,2025-11-07 21:15:24
